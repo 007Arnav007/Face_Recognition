@@ -23,7 +23,7 @@ pip install opencv-python
 ```
 ▶️ How to Run
 ```
-python face_detect.py
+python Live_face_detection.py
 ```
 
 📌 Future Improvements
